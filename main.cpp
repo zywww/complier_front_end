@@ -15,12 +15,12 @@ void test(const std::string &filename)
 }
 
 // TODO 命名空间
-
+ 
 int main()
 {
 	test("test.txt");
 	
-
+	cout << "由 VS 提交到 GitHub" << endl;
 
 	system("pause");
 	return 0;

@@ -1,7 +1,8 @@
-﻿  正在生成代码
-  0 of 887 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+﻿  main.cpp
+  正在生成代码
+  1 of 887 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    52 functions had inline decision re-evaluated but remain unchanged
+    25 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   front_end.vcxproj -> C:\Code\Compilers\front_end\Release\front_end.exe
   front_end.vcxproj -> C:\Code\Compilers\front_end\Release\front_end.pdb (Full PDB)
