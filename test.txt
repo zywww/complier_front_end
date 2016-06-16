@@ -1,0 +1,8 @@
+int a;
+a = 3;
+while (a <= 3)
+{
+    if (a == 2) break;
+    a = a - 1;
+}
+
